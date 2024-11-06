@@ -1,6 +1,6 @@
 
 #支持私库
-easzlab/kubeasz:3.5.0
+kubernetes: v1.26.0
 
 #支持指定架构
 #--platform=linux/amd64 nginx
