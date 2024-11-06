@@ -1,6 +1,6 @@
 
 #支持私库
-quay.io/ceph/ceph:v16.2.7
+easzlab/kubeasz:3.5.0
 
 #支持指定架构
 #--platform=linux/amd64 nginx
