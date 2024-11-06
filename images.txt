@@ -1,7 +1,9 @@
 
 #支持私库
 
-gitlab/gitlab-ce:latest
+gitlab/gitlab-jh-ce:latest
+minio/minio
+postgres
 #支持指定架构
---platform=linux/amd64 nginx
+#--platform=linux/amd64 nginx
 
