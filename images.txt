@@ -1,9 +1,9 @@
 
 #支持私库
 
-registry.gitlab.cn/omnibus/gitlab-jh:latest
-minio/minio
-postgres
+redis
+docker.getoutline.com/outlinewiki/outline:latest
+steveltn/https-portal
 #支持指定架构
 #--platform=linux/amd64 nginx
 
