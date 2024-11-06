@@ -1,7 +1,7 @@
 
 #支持私库
 
-gitlab-jh-ce:latest
+registry.gitlab.cn/omnibus/gitlab-jh
 minio/minio
 postgres
 #支持指定架构
