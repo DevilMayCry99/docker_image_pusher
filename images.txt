@@ -1,7 +1,8 @@
 
 #支持私库
 #kubernetes: v1.26.0
-calico:v3.25.0
+#calico:v3.25.0
+registry:2
 #支持指定架构
 #--platform=linux/amd64 nginx
 
