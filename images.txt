@@ -3,7 +3,8 @@
 #kubernetes: v1.26.0
 #calico:v3.25.0
 #registry:2
-busybox
+#busybox
+redis/redis-server:7.0
 #支持指定架构
 #--platform=linux/amd64 nginx
 
