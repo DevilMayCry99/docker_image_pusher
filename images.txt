@@ -5,7 +5,8 @@
 #registry:2
 #busybox
 #redis:7.2
-sameersbn/postgresql:10
+#sameersbn/postgresql:10
+registry.opensource.zalan.do/acid/postgres-operator:v1.8.2
 #支持指定架构
 #--platform=linux/amd64 nginx
 
