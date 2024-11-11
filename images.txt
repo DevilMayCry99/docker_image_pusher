@@ -4,7 +4,7 @@
 #calico:v3.25.0
 #registry:2
 #busybox
-redis/redis-server:7.0
+redis/redis:7.2
 #支持指定架构
 #--platform=linux/amd64 nginx
 
