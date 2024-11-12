@@ -6,9 +6,10 @@
 #busybox
 #redis:7.2
 #sameersbn/postgresql:10
-registry.opensource.zalan.do/acid/postgres-operator:v1.11.0
-registry.opensource.zalan.do/acid/postgres-operator-ui:v1.11.0
+#opensource.zalan.do/acid/postgres-operator:v1.11.0
+#registry.opensource.zalan.do/acid/postgres-operator-ui:v1.11.0
 #registry.opensource.zalan.do/acid/spilo-14:2.1-p6
+postgres:15.6
 #支持指定架构
 #--platform=linux/amd64 nginx
 
