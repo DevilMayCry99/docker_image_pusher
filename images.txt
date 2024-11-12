@@ -10,8 +10,8 @@
 #registry.opensource.zalan.do/acid/postgres-operator-ui:v1.11.0
 #registry.opensource.zalan.do/acid/spilo-14:2.1-p6
 #postgres:15.6
-#apache/rocketmq-operator
-openjdk:8-alpine
+apache/rocketmq-operator:3.0
+#openjdk:8-alpine
 #支持指定架构
 #--platform=linux/amd64 nginx
 
