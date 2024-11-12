@@ -12,7 +12,8 @@
 #postgres:15.6
 #apache/rocketmq-operator:0.3.0
 #openjdk:8-alpine
-golang:1.16
+#golang:1.16
+docker.io/radondb/pgo-deployer:debian-2.1.1
 #支持指定架构
 #--platform=linux/amd64 nginx
 
