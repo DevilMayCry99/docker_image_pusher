@@ -22,7 +22,8 @@
 #radondb/pgo-event:debian-2.1.1
 #radondb/pgo-client:debian-2.1.1
 #sameersbn/postgresql:15
-jc21/registry-ui
+#jc21/registry-ui
+gitlab/gitlab-ce:15.6.0-ce.0
 #支持指定架构
 #--platform=linux/amd64 nginx
 
