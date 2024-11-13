@@ -21,8 +21,8 @@
 #radondb/pgo-scheduler:debian-2.1.1
 #radondb/pgo-event:debian-2.1.1
 #radondb/pgo-client:debian-2.1.1
-sameersbn/postgresql:15
-
+#sameersbn/postgresql:15
+hyper/docker-registry-web
 #支持指定架构
 #--platform=linux/amd64 nginx
 
