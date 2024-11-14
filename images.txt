@@ -23,8 +23,9 @@
 #radondb/pgo-client:debian-2.1.1
 #sameersbn/postgresql:15
 #gitlab/gitlab-ce:15.6.0-ce.0
-minio/minio:RELEASE.2022-10-24T18-35-07Z
-minio/minio:RELEASE.2024-11-07T00-52-20Z.fips
+#minio/minio:RELEASE.2022-10-24T18-35-07Z
+#minio/minio:RELEASE.2024-11-07T00-52-20Z.fips
+registry.gitlab.cn/omnibus/gitlab-jh:v17.5.0
 #支持指定架构
 #--platform=linux/amd64 nginx
 
