@@ -25,7 +25,8 @@
 #gitlab/gitlab-ce:15.6.0-ce.0
 #minio/minio:RELEASE.2022-10-24T18-35-07Z
 #minio/minio:RELEASE.2024-11-07T00-52-20Z.fips
-registry.gitlab.cn/omnibus/gitlab-jh:latest
+#registry.gitlab.cn/omnibus/gitlab-jh:latest
+sameersbn/gitlab:17.5.1
 #支持指定架构
 #--platform=linux/amd64 nginx
 
