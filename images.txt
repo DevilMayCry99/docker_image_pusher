@@ -29,7 +29,7 @@
 #sameersbn/gitlab:17.5.1
 #calico/typha:v3.24.1
 #calico/pod2daemon-flexvol:v3.24.1
-flannel:v0.22.0
+flannel/flannel:v0.22.0
 #支持指定架构
 #--platform=linux/amd64 nginx
 
