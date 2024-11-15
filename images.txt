@@ -26,7 +26,9 @@
 #minio/minio:RELEASE.2022-10-24T18-35-07Z
 #minio/minio:RELEASE.2024-11-07T00-52-20Z.fips
 #registry.gitlab.cn/omnibus/gitlab-jh:latest
-sameersbn/gitlab:17.5.1
+#sameersbn/gitlab:17.5.1
+calico/typha:v3.24.1
+calico/pod2daemon-flexvol:v3.24.1
 #支持指定架构
 #--platform=linux/amd64 nginx
 
