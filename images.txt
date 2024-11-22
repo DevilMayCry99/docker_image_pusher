@@ -31,7 +31,8 @@
 #calico/pod2daemon-flexvol:v3.24.1
 #flannel/flannel:v0.22.0
 #flannel/flannel-cni-plugin:v1.1.2
-outlinewiki/outline:0.81.0
+#outlinewiki/outline:0.81.0
+jgraph/drawio
 #支持指定架构
 #--platform=linux/amd64 nginx
 
