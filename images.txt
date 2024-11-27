@@ -33,7 +33,8 @@
 #flannel/flannel-cni-plugin:v1.1.2
 #outlinewiki/outline:0.81.0
 #jgraph/drawio:23.0.0
-netdata/netdata:v2.0.3
+#netdata/netdata:v2.0.3
+amankinenko/docker-drawio:a128ec8
 #支持指定架构
 #--platform=linux/amd64 nginx
 
