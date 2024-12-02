@@ -34,7 +34,8 @@
 #outlinewiki/outline:0.81.0
 #jgraph/drawio:23.0.0
 #netdata/netdata:v2.0.3
-openjdk:17-jdk
+#openjdk:17-jdk
+public.ecr.aws/zinclabs/openobserve
 #支持指定架构
 #--platform=linux/amd64 nginx
 
