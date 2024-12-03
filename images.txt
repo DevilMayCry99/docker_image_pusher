@@ -38,7 +38,8 @@
 #public.ecr.aws/zinclabs/openobserve
 #gitlab/gitlab-runner:v17.5.1
 #gmsyj/onlyoffice:v6.2.0
-alehoho/oo-ce-docker-license:6.3.0.111
+#alehoho/oo-ce-docker-license:6.3.0.111
+onlyoffice/documentserver:5.3.4.3
 
 #支持指定架构
 #--platform=linux/amd64 nginx
