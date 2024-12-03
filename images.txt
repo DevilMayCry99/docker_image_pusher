@@ -36,7 +36,8 @@
 #netdata/netdata:v2.0.3
 #openjdk:17-jdk
 #public.ecr.aws/zinclabs/openobserve
-gitlab/gitlab-runner:v17.5.1
+#gitlab/gitlab-runner:v17.5.1
+gmsyj/onlypffice:v6.2.0
 #支持指定架构
 #--platform=linux/amd64 nginx
 
