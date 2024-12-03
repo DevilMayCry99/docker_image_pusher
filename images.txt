@@ -37,7 +37,9 @@
 #openjdk:17-jdk
 #public.ecr.aws/zinclabs/openobserve
 #gitlab/gitlab-runner:v17.5.1
-gmsyj/onlypffice:v6.2.0
+gmsyj/onlyoffice:v6.2.0
+alehoho/oo-ce-docker-license:6.3.0.111
+
 #支持指定架构
 #--platform=linux/amd64 nginx
 
