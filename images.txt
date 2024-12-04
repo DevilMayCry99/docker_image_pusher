@@ -40,8 +40,8 @@
 #gmsyj/onlyoffice:v6.2.0
 #alehoho/oo-ce-docker-license:6.3.0.111
 #186184848/documentserver
-nextcloud:latest
-mariadb:latest
+nextcloud:latest --platform=linux/amd64
+mariadb:latest --platform=linux/amd64
 #支持指定架构
 #--platform=linux/amd64 nginx
 
