@@ -48,9 +48,11 @@
 #deepflowce/clickhouse-server:23.8.7.24
 #deepflowce/mysql:8.0.31
 #deepflowce/grafana:10.4.3
-deepflowce/app
-deepflowce/init-grafana-ds-dh
-deepflowce/io-init-grafana
+deepflowce/deepflow-app:v6.6
+deepflowce/deepflow-init-grafana:v6.1.8.7
+deepflowce/deepflow-init-grafana-ds-dh:v6.1.8.7
+deepflowce/deepflowio-init-grafana:v6.6.7
+deepflowce/deepflowio-init-grafana-ds-dh:v6.6.8
 #linuxserver/nextcloud:30.0.3
 #支持指定架构
 #--platform=linux/amd64 nginx
