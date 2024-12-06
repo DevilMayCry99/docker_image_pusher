@@ -42,7 +42,8 @@
 #186184848/documentserver
 #nextcloud:latest
 #mariadb:latest
-collabora/code
+#collabora/code
+hub.deepflow.yunshan.net/public/rust-build
 #支持指定架构
 #--platform=linux/amd64 nginx
 
