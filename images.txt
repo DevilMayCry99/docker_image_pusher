@@ -43,7 +43,11 @@
 #nextcloud:latest
 #mariadb:latest
 #collabora/code
-hub.deepflow.yunshan.net/public/rust-build
+deepflowce/deepflow-agent
+deepflowce/deepflow-server
+deepflowce/clickhouse-server:23.8.7.24
+deepflowce/mysql:8.0.31
+deepflowce/grafana:10.4.3
 #支持指定架构
 #--platform=linux/amd64 nginx
 
