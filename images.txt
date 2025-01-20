@@ -59,7 +59,9 @@
 #apache/skywalking-ui:10.1.0
 #apache/skywalking-oap-server:10.1.0
 #apache/skywalking-rover:0.7.0
-eclipse-temurin:11-jre
+#eclipse-temurin:11-jre
 #支持指定架构
 #--platform=linux/amd64 nginx
+
+alpine
 
