@@ -62,6 +62,6 @@
 #eclipse-temurin:11-jre
 #支持指定架构
 #--platform=linux/amd64 nginx
-
-alpine
+nginx:1.20.1
+#alpine
 
