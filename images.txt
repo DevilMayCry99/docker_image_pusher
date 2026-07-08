@@ -66,6 +66,7 @@
 #--platform=linux/arm64 redhat/ubi8-minimal:8.10-1179
 #golang:1.15
 
---platform=linux/arm64 centos:1.2
+#--platform=linux/arm64 centos:1.2
 #alpine
+ghcr.io/tale/headplane:0.7.0
 
